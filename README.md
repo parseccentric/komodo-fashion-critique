@@ -1,3 +1,5 @@
+Archive Note (4/28/21): I accidentally made this repo. Please see [gelic-idealab/design-critique](https://github.com/gelic-idealab/design-critique) instead.
+
 ## Installing the komodo_unity Core
 
 **Clone the repository.** 
