@@ -1,4 +1,6 @@
-Archive Note (4/28/21): I accidentally made this repo. Please see [gelic-idealab/design-critique](https://github.com/gelic-idealab/design-critique) instead.
+Unarchive Note (6/1/21): This has been transformed from komodo-design-critique to komodo-unity. Previous description: "Fashion Critique module for the Komodo XR platform."
+
+Archive Note (4/28/21): I accidentally made this repo. Please see [gelic-idealab/design-critique](https://github.com/gelic-idealab/design-critique) instead. 
 
 ## Installing the komodo_unity Core
 
